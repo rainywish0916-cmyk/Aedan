@@ -35,5 +35,5 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = 'simple'
-CSS_FILE = 'custom.css'
-CUSTOM_CSS = 'css/custom.css'
+
+STYLESHEET_URL = 'https://unpkg.com'
