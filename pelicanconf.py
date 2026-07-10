@@ -33,3 +33,7 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+THEME = 'simple'
+STATIC_PATHS = ['css']
+CUSTOM_CSS = 'css/custom.css'

@@ -1,0 +1,75 @@
+/* --- Aedan's Cozy Cottagecore Portfolio CSS --- */
+:root {
+    --bg-main: #fbf9f4;  /* Soft, warm cream linen background */
+    --bg-card: #ffffff; /* Pure white inside project card containers */
+    --text-main: #3c3836; /* Gentle dark charcoal text */
+    --text-muted: #7c6f64; /* Soft clay/stone color for dates and notes */
+    --forest-green: #3a503e; /* Deep cottage forest green for titles */
+    --sage-accent: #7d967e; /* Soft age green for borders and accents */
+    --warm-link: #ad6d4a; /* Warm terracotta/clay color for interactive links */
+    --warm-link-hover: #8f5333; /* Richer terracotta for hover effects */
+
+}
+
+body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: 'Georgia', Cambria, 'Times New Roman', Times, serif;
+    line-height: 1.7;
+    max-width: 750px;
+    margin: 60px auto;
+    padding: 0 24px;
+}
+
+/* LITERARY HEADERS */
+h1, h2, h3 {
+    color: var(--forest-green);
+    font-family: 'Georgia', serif;
+    font-weight: 400;
+    font-style: italic;
+    border-bottom: 1px solid var(--sage-accent);
+    padding-bottom: 12px;
+    margin-top: 40px;
+}
+
+/* TITLE ORNAMENT*/
+h1::after {
+    content: " ❤";
+    color: var(--sage-accent);
+    font-size: 0.8em;
+    font-style: normal;
+}
+
+/* DISPLAY CARDS */
+article {
+    background: var(--bg-card);
+    border: 1px solid #ebdcb9;
+    border-left: 4px solid var(--sage-accent);
+    padding: 30px;
+    margin: 30px 0;
+    border-radius: 6px;
+    box-shadow: 0 3px 10px rgba(189, 180, 160, 0.15);
+}
+
+/* HYPERLINKS */
+a  {
+    color: var(--warm-link);
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: var(--warm-link-hover);
+    text-decoration-thickness: 2px;
+}
+
+/*FOOTER ALIGNMENT */
+footer {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 0.9em;
+    color: var(--text-muted);
+    font-style: italic;
+}
