@@ -35,5 +35,5 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = 'simple'
-STATIC_PATHS = ['css']
+CSS_FILE = 'custom.css'
 CUSTOM_CSS = 'css/custom.css'
