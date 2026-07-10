@@ -35,5 +35,4 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = 'simple'
-
 STYLESHEET_URL = 'https://unpkg.com'
