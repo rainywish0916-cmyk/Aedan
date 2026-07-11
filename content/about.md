@@ -15,7 +15,7 @@ Save_as: index.html
 
 Feel free to browse my featured engineering work below!
 
-&#10070; [Browse My Project Cases &#10142;](/category/projects.html)
+&#10070; [Browse My Project Cases &#10142;](category/Projects.html)
 
 <style>
     html, body {
