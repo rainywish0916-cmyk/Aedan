@@ -4,7 +4,7 @@ Category: Projects
 Summary: A custom automated web portfolio complied through GitHub Actions pipelines.
 
 # Featured Projects Showcase
-[ Back Home](Aedan/index.html)
+[ Back Home]({Aedan}index.html)
 
 ### Automated Static Architecture
 <ul style="list-style-type: none; padding-left: 0;">
@@ -22,7 +22,8 @@ Summary: A custom automated web portfolio complied through GitHub Actions pipeli
 <style>
     html {
         background-color: #f4f0ec !important; /* Soft, warm oatmeal/linen */
-        padding: 2in !important;
+        padding: 5vw !important;
+        box-sizing: border-box !important;
     }
     body {
         background-color: #fbf9fa !important; /* Cream page background */
@@ -60,10 +61,10 @@ Summary: A custom automated web portfolio complied through GitHub Actions pipeli
     /* Keeps layout looking good on smaller mobile screens */
     @media (max-width: 768px) {
         html {
-            padding: 20px !important;
+            padding: 15px !important;
         }
         body {
-            padding: 20px !important;
+            padding: 25px !important;
             border: 2px solid #3a503e !important; /* Thinner border for smaller devices */
         }
     }
