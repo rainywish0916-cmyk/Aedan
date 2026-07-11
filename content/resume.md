@@ -4,7 +4,7 @@ Slug: resume
 Summary: Technical resume and academic achievements of Aedan Hatchell
 
 # Aedan Hatchell - Technical Resume
- [&#10142; Back to Workshop]({index}index.html)
+ [&#10142; Back to Workshop]({index})
  
 ### &#127809; Academic Background
 * &#9729; **Orangeburg-Calhoun Technical College** - *A.S. in Computer Science* 2022 - 2024

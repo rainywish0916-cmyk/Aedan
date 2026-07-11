@@ -4,7 +4,7 @@ Category: Projects
 Summary: A custom automated web portfolio complied through GitHub Actions pipelines.
 
 # Featured Projects Showcase
-&#10070;[ Back Home& #10142;]({filename}about.index.html)
+&#10070;[ Back Home& #10142;]({index})
 
 ### Automated Static Architecture
 <ul style="list-style-type: none; padding-left: 0;">

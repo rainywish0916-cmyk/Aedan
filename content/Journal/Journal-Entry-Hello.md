@@ -4,7 +4,7 @@ Category: Journal
 Summary: Reflections on setting ip automated pipelines and wrestling with full-browser layout engine scaling.
 
 # The Developer's Diary
-[ Back Home] ({Aedan}index.html)
+[ Back to Workshop] ({index})
 
 <style>
     /* The outer backdrop outside the frame */

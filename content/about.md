@@ -17,8 +17,12 @@ Save_as: index.html
 </ul>
 Feel free to browse my featured engineering work below!
 
-&#10070; [Browse My Project Cases &#10142;]({filename}/portfolio-tracker.md)
-&#10070; [Read My Programming Journal &#10142;]({filename}/Journal/Journal-Entry-Hello.md)
+### Navigation Desk
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 12px;">&#10070; [Browse My Project Cases &#10142;]({filename}/portfolio-tracker.md)</li>
+    <li style="margin-bottom: 12px;">&#10070; [Read My Programming Journal &#10142;]({filename}/Journal/Journal-Entry-Hello.md)</li>
+    <li style="margin-bottom: 12px;">&#10070; [View Technical Resume &#10142;]({filename}/resume.md)</li>
+</ul>
 
 <style>
     html {
