@@ -22,7 +22,8 @@ Feel free to browse my featured engineering work below!
 <style>
     html {
         background-color: #f4f0ec !important; /* Soft, warm oatmeal/linen */
-        padding: 2in !important;
+        padding: 5vw !important;
+        box-sizing: border-box !important;
     }
     body {
         background-color: #fbf9fa !important;
@@ -35,7 +36,8 @@ Feel free to browse my featured engineering work below!
 
         /* Cottage Core Decorative Border Styles */
         border: 4px double #3a503e !important; /* Classic deep safe double line frame */
-        border-radius: 4px !important; /* Subtle soft corners */
+        border-radius: 4px !important;
+        box-shadow: 0 4px 15px rgba(85, 102, 88, 0.05) !important; /* Subtle soft corners */
     }
 
     h1, h2, h3, h1 a, h2 a, h3 a {
@@ -58,10 +60,10 @@ Feel free to browse my featured engineering work below!
     /* Mobile screen layout */
     @media (max-width: 768px) {
         html {
-            padding: 10px !important;
+            padding: 15px !important;
         }
         body {
-            padding: 20px !important;
+            padding: 25px !important;
             border: 2px solid #3a503e !important; /* Thinner border for smaller devices */
         }
     }
