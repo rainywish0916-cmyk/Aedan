@@ -8,26 +8,51 @@ Save_as: index.html
 
 <font color="#8ba88f">Hello, I'm Aedan! Welcome to my workshop space. This live platform functions as a showcase for all my projects and programs I have made.</font>
 
-### My Core Skills <font color="#8ba88f">
-* **Languages:** Python, C++, Java, HTML, CSS SQL
-* **Tools & Frameworks:** Git & GitHub, PyCharm, Pelican, CLion
-* **Interests:** Scripting, Reading, Crocheting, Horror Games, Fantasy and Dark Romance books </font>
+### My Core Skills 
 
+<ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin-bottom: 12px; color: #8ba88f;">&#10070; <strong style="color: #8ba88f;">Languages:</strong> <span style="color: #768d72;">Python, C++, Java, HTML, CSS, SQL </span></li>
+    <li style="margin-bottom: 12px; color: #8ba88f;">&#10070; <strong style="color: #8ba88f;">Tools & Frameworks:</strong> <span style="color: #768d72;">Git & GitHub, PyCharm, Pelican, CLion</span></li>
+    <li style="margin-bottom: 12px; color: #8ba88f;">&#10070; <strong style="color: #8ba88f;">Interests:</strong> <span style="color: #768d72;">Scripting, Reading, Crocheting, Horror Games, Fantasy and Dark Romance books</span></li>
+</ul>
 Feel free to browse my featured engineering work below!
 
 &#10070; [Browse My Project Cases &#10142;](category/Projects.html)
 
 <style>
-    html, body {
-        background-color: #fbf9f4 !important; 
+    html {
+        background-color: #fbf9f4 !important;
+    }
+    body {
+        background-color: #fbf9fa !important;
         color: #556658 !important;
         font-family: 'Georgia', Cambria, serif !important;
+        line-height: 1.6 !important;
+        padding: 2in !important;
+        max-width: 800px !important;
+        margin: 0 auto !important;
     }
     h1, h2, h3, h1 a, h2 a, h3 a {
         color: #3a503e !important;
+        margin-top: 24px !important;
     }
     a {
         color: #ad6d4a !important;
         text-decoration: underline !important;
+    }
+    a:hover {
+        color: #3a503e !important;
+    }
+    ul {
+        padding-left: 20px !important;
+    }
+    li {
+        margin-bottom: 8px !important;
+    }
+    /* Mobile screen layout */
+    @media (max-width: 768px) {
+        body {
+            padding: 1rem !important;
+        }
     }
 </style>
