@@ -32,4 +32,27 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 THEME = 'simple'
-STYLESHEET_URL = 'https://unpkg.com'
+
+EXTERNAL_CSS = [
+    'https://unpkg.com'
+]
+
+EXTRA_TEMPLATES_HTML = """
+<style>
+    html, body {
+    background-color: #fbf9f4 !important; /* Soft warm cream linen */
+    color: #3c3836 !important;            /* Gentle dark charcoal text */
+    font-family: 'Georgia', serif !important;
+    }
+    h1, h2, h3 {
+        color: #3a503e !important;        /* Deep cottage forest green */
+        }
+        a {
+            color: #ad6d4a !important;    /* Warm terracotta mud links */
+            text-decoration: underline !important;
+        }
+        a:hover {
+            color: #8f5333 !important;
+        }
+<style>
+"""

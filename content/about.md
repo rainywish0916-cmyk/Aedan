@@ -1,17 +1,18 @@
 Title: Welcome to my Workshop
-Date: 2026-07-10
+Date: 2026 - 07 - 11
 Slug: about
-save_as: index.html
+Save_as: index.html
 
-<link rel="stylesheet" href="https://unpkg.com" type="text/css">
+# Aedan Hatchell
+### Computer Science Student at Southern New Hampshire University
 
-Hello, I'm Aedan!
-I am currently a student at Southern New Hampshire University as a Computer Science student.
-This is a collection of my projects!
+Hello, I'm Aedan! Welcome to my workshop space. This live platform functions as a showcase for all my projects and programs I have made.
 
 ### My Core Skills
-* **Languages:** Python, HTML, CSS, C++, SQL, JavaScript
+* **Languages:** Python, C++, Java, HTML, CSS SQL
 * **Tools & Frameworks:** Git & GitHub, PyCharm, Pelican, CLion
-* **Interests:** Scripting, Reading, Crocheting, Horror Games, Fantasy and/or Dark Roamance Books
+* **Interests: Scripting, Reading, Crocheting, Horror Games, Fantasy and Dark Romance books
 
 Feel free to browse my featured engineering work below!
+
+[Browse My Project Cases ](/Aedan/category/projects.html)
