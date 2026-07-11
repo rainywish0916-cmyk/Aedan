@@ -17,7 +17,8 @@ Save_as: index.html
 </ul>
 Feel free to browse my featured engineering work below!
 
-&#10070; [Browse My Project Cases &#10142;](category/Projects.html)
+&#10070; [Browse My Project Cases &#10142;]({filename}/portfolio-tracker.md)
+&#10070; [Read My Programming Journal &#10142;]({filename}/Journal/Journal-Entry-Hello.md)
 
 <style>
     html {
