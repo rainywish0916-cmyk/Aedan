@@ -1,58 +1,60 @@
-AUTHOR = 'Aedan Hatchell'
-SITENAME = 'Aedan'
-SITEURL = ""
+AUTHOR: 'Aedan Hatchell'
+SITENAME = 'AEDAN'
+SITEURL = 'https://github.io'
 
 PATH = "content"
-
 TIMEZONE = 'EST'
-
 DEFAULT_LANG = 'en'
 
-# Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = [
-    (('HOME', '/Aedan/index/html'),
-     ('PROJECTS', '/Aedan/category/projects.html'),)
-]
+LINKS = (
+    ('Home', 'Aedan/index.html'),
+    ('Projects', '/Aedan/category/Projects.html'),
+)
 
-# Social widget
-SOCIAL = [
-    (('GitHub Profile', 'https://github.com'),)
-]
+SOCIAL = (
+    ('GitHub Profile', 'https://hithub.com'),
+)
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
-
 THEME = 'simple'
 
-EXTERNAL_CSS = [
-    'https://unpkg.com'
-]
-
-EXTRA_TEMPLATES_HTML = """
+HTML_HEADER = """
 <style>
+    /* Cozy Cottagecore Style Guide */
     html, body {
-    background-color: #fbf9f4 !important; /* Soft warm cream linen */
-    color: #3c3836 !important;            /* Gentle dark charcoal text */
-    font-family: 'Georgia', serif !important;
+        background-color: #fbf9f4 !important; /* Soft warm cream background */
+        color: #3c3836 !important;            /* Gentle dark charcoal text */
+        font-family: 'Georgia', Cambria, serif !important;
+        line-height: 1.8 !important;
+        max-width: 750px !important;
+        margin: 40px auto !important;
+        padding: 0 24px !important;
     }
-    h1, h2, h3 {
-        color: #3a503e !important;        /* Deep cottage forest green */
-        }
-        a {
-            color: #ad6d4a !important;    /* Warm terracotta mud links */
-            text-decoration: underline !important;
-        }
-        a:hover {
-            color: #8f5333 !important;
-        }
-<style>
+    
+    /* Page brand manu links matching titles */
+    h1 a, h2 a, h3 a {
+        color: #3a503e !important;
+        text-decoration: none !important;
+    }
+    /* Terracotta Core Hyperlinks */
+    a {
+        color: #ad6d4a !important;
+        text-decoration: none !important;
+        font-weight: bold !important;
+    }
+    a:hover {
+        color: #8f5333 !important;
+    }
+    
+    /* Clean listing indents */
+    ul { padding-left: 20px !important; }
+    li { margin-bottom: 8px !important; }
+</style>
 """
