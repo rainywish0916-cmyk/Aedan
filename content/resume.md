@@ -7,12 +7,12 @@ Summary: Technical resume and academic achievements of Aedan Hatchell
  [&#10142; Back to Workshop]({index}index.html)
  
 ### &#127809; Academic Background
-* &#9898; **Orangeburg-Calhoun Technical College** - *A.S. in Computer Science* 2022 - 2024
-* &#9898; **Southern New Hampshire University** - *B.S. in Computer Science* 2026 - 2027
+* &#9729; **Orangeburg-Calhoun Technical College** - *A.S. in Computer Science* 2022 - 2024
+* &#9729; **Southern New Hampshire University** - *B.S. in Computer Science* 2026 - 2027
 
 ### &#9874; Technical Competencies
-* &#9898; **Languages:** Python, C++, Java, HTML/CSS, SQL
-* &#9898; **Tools & Systems:** GitHub, GitHub Actions, Pelican, PyCharm, CLion, IOS, LINUX, Microsoft, Oracle
+* &#9729; **Languages:** Python, C++, Java, HTML/CSS, SQL
+* &#9729; **Tools & Systems:** GitHub, GitHub Actions, Pelican, PyCharm, CLion, IOS, LINUX, Microsoft, Oracle
 
 ### &#128451; Featured Engineering Projects
 * **Automated Python Portfolio Platform**
@@ -21,7 +21,7 @@ Summary: Technical resume and academic achievements of Aedan Hatchell
 * **Portfolio Tracker System**
    * Developed a localized project lifecycle management framework in Python.
 
-### &#128236: Contact Details
+### &#128236; Contact Details
 
 
 <style>
