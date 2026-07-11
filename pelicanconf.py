@@ -30,7 +30,7 @@ EXTRA_TEMPLATES_HTML = """
     /* Cozy Cottagecore Style Guide */
     html, body {
         background-color: #fbf9f4 !important; /* Soft warm cream background */
-        color: #3c3836 !important;            /* Gentle dark charcoal text */
+        color: #1c1a17 !important;            /* High-contrast deep earth text */
         font-family: 'Georgia', Cambria, serif !important;
         line-height: 1.8 !important;
         max-width: 750px !important;
@@ -44,13 +44,21 @@ EXTRA_TEMPLATES_HTML = """
         text-decoration: none !important;
     }
     /* Terracotta Core Hyperlinks */
-    a {
+    a, a:visited {
         color: #ad6d4a !important;
         text-decoration: none !important;
         font-weight: bold !important;
     }
     a:hover {
         color: #8f5333 !important;
+    }
+    
+    ul, ol, li {
+        color: #55658 !important;  /* Soft, faded muted green font */
+    }
+    
+    li strong {
+        color: #1c1a17 !important;
     }
     
     /* Clean listing indents */

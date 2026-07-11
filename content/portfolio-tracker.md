@@ -6,19 +6,19 @@ Summary: A custom automated web portfolio complied through GitHub Actions pipeli
 # Featured Projects Showcase
 [ Back Home](Aedan/index.html)
 
-### Automated Static Architecture
-I built an online deployment pipline that works on its own without requiring local machine runtime setups. The application relies on serverless static architectures.
+### Automated Static Architecture <font color="#8ba88f">
+I built an online deployment pipline that works on its own without requiring local machine runtime setups. The application relies on serverless static architectures.</font>
 
-### Key Features Implemented
+### Key Features Implemented <font color="#8ba88f">
 * **Cloud Automation:** Integrated custom YAML workflows to auto-compile site structures on git push commands.
-* **Cottagecore Style Elements:** Bypassed rigid templates to build custom layout.
+* **Cottagecore Style Elements:** Bypassed rigid templates to build custom layout.</font>
 
 [View Open Soruce Repository ](https://github.com)
 
 <style>
     html, body {
         background-color: #fbf9fa !important;
-        color: #3c3836 !important;
+        color: #556658 !important;
         font-family: 'Georgia', Cambria, serif !important;
     }
     h1, h2, h3, h1 a, h2 a, h3 a {
