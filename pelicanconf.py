@@ -25,7 +25,7 @@ DEFAULT_PAGINATION = 10
 
 THEME = 'simple'
 
-HTML_HEADER = """
+EXTRA_TEMPLATES_HTML = """
 <style>
     /* Cozy Cottagecore Style Guide */
     html, body {
