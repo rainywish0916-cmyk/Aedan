@@ -6,7 +6,7 @@ Summary: A deep dive workspace showcasing my localized software applications and
 
 # Software Engineering Showcase
 
-[&larr; Back to Workshop](http://localhost:8000/about.html)
+[&larr; Back to Workshop]({filename}/about.md)
 
 Here you will find a curated collection of application architectures and scripting structures I have built throughout my computer science journey.
 

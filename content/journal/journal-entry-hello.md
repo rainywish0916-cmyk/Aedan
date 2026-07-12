@@ -5,7 +5,7 @@ Slug: journal-entry-hello
 Summary: Reflections on setting ip automated pipelines and wrestling with full-browser layout engine scaling.
 
 # The Developer's Diary
-[&larr; Back to Workshop](http://localhost:8000/about.html)
+[&larr; Back to Workshop]({filename}/about.md)
 
 <style>
     /* The outer backdrop outside the frame */
