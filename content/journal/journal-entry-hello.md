@@ -1,10 +1,10 @@
-Title: Embracing the setup Jurdles
+Title: Embracing the setup Hurdles
 Date: 2026-07-11
 Category: Journal
 Summary: Reflections on setting ip automated pipelines and wrestling with full-browser layout engine scaling.
 
 # The Developer's Diary
-[ Back to Workshop] ({filename}/about.md)
+[ Back to Workshop]_http://localhost:8000/index.html_
 
 <style>
     /* The outer backdrop outside the frame */

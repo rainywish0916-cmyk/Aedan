@@ -22,9 +22,9 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
 * **Feel free to browse my workspace logs, open-source repositories, and developer journals!**
 
 ### Navigation Desk
-* [Browse My Project Cases &#10142;]({filename}/portfolio-tracker.md)
-* [Read My Programming Journal &#10142;]({filename}/journal/journal-entry-hello.md)
-* [View Technical Resume &#10142;]({filename}/resume.md)
+* [Browse My Project Cases &#10142;]_http://localgost:8000/protfolio-tracker.html_
+* [Read My Programming Journal &#10142;]_http://localhost:8000/journal/journal-entry-hello.html_
+* [View Technical Resume &#10142;]_http://localhost:8000/resume.html_
 
 <style>
     html {
