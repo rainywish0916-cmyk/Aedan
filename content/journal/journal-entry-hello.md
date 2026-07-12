@@ -4,7 +4,7 @@ Category: Journal
 Summary: Reflections on setting ip automated pipelines and wrestling with full-browser layout engine scaling.
 
 # The Developer's Diary
-[ Back to Workshop]_http://localhost:8000/index.html_
+[&larr; Back to Workshop] _http://localhost:8000/index.html_
 
 <style>
     /* The outer backdrop outside the frame */
