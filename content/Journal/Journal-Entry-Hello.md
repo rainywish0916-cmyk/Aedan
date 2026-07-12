@@ -4,7 +4,7 @@ Category: Journal
 Summary: Reflections on setting ip automated pipelines and wrestling with full-browser layout engine scaling.
 
 # The Developer's Diary
-[ Back to Workshop] ({index})
+[ Back to Workshop] ({filename}/about.md)
 
 <style>
     /* The outer backdrop outside the frame */

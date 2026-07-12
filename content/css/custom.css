@@ -1,75 +1,98 @@
-/* --- Aedan's Cozy Cottagecore Portfolio CSS --- */
-:root {
-    --bg-main: #fbf9f4;  /* Soft, warm cream linen background */
-    --bg-card: #ffffff; /* Pure white inside project card containers */
-    --text-main: #2f3b31; /* Gentle dark green text */
-    --text-muted: #7c6f64; /* Soft clay/stone color for dates and notes */
-    --forest-green: #3a503e; /* Deep cottage forest green for titles */
-    --sage-accent: #7d967e; /* Soft age green for borders and accents */
-    --warm-link: #ad6d4a; /* Warm terracotta/clay color for interactive links */
-    --warm-link-hover: #8f5333; /* Richer terracotta for hover effects */
+/* Master Global Cottagecore Design System */
 
+html {
+    background-color: #323437 !important; /* Charcoal misty forest backdrop */
+    padding: 0px !important;
+    box-sizing: border-box !important;
 }
 
 body {
-    background-color: var(--bg-main);
-    color: var(--text-main);
-    font-family: 'Georgia', Cambria, 'Times New Roman', Times, serif;
-    line-height: 1.7;
-    max-width: 750px;
-    margin: 60px auto;
-    padding: 0 24px;
+    background-color: #F4EFE6 !important; /* Cream warm paper canvas */
+    color: #161718 !important;            /* High-contrast deep near-black text */
+    font-family: 'Georgia', Cambria, serif !important;
+    line-height: 1.7 !important;
+    font-weight: 500 !important;          /* Clear, crisp text weight thickness */
+    max-width: 95% !important;            /* Expanded layout screen area */
+    margin: 20px auto !important;
+    padding: 40px !important;
+
+    /* Minimal Border Settings */
+    border: 1px solid #657A5A !important; /* Moss Green thin edge frame */
+    border-radius: 2px !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;
 }
 
-/* LITERARY HEADERS */
-h1, h2, h3 {
-    color: var(--forest-green);
-    font-family: 'Georgia', serif;
-    font-weight: 400;
-    font-style: italic;
-    border-bottom: 1px solid var(--sage-accent);
-    padding-bottom: 12px;
-    margin-top: 40px;
+/* TARGET ALL PARAGRAPHS DIRECTLY TO FORCE HIGH CONTRAST */
+p {
+    color: #161718 !important;            /* Forces all body text out of the ghost gray */
+    font-weight: 500 !important;
+    line-height: 1.7 !important;
 }
 
-/* TITLE ORNAMENT*/
-h1::after {
-    content: " ❤";
-    color: var(--sage-accent);
-    font-size: 0.8em;
-    font-style: normal;
+/* Typography & Headers */
+h1 {
+    color: #5C2435 !important;            /* Deep Burgundy for main title */
+    font-size: 2.5rem !important;
+    margin-bottom: 5px !important;
 }
 
-/* DISPLAY CARDS */
-article {
-    background: var(--bg-card);
-    border: 1px solid #ebdcb9;
-    border-left: 4px solid var(--sage-accent);
-    padding: 30px;
-    margin: 30px 0;
-    border-radius: 6px;
-    box-shadow: 0 3px 10px rgba(189, 180, 160, 0.15);
+h2, h3, h1 a, h2 a, h3 a {
+    color: #5C2435 !important;            /* Deep Burgundy subheaders */
+    font-size: 1.4rem !important;
+    margin-top: 30px !important;
+    margin-bottom: 10px !important;
 }
 
-/* HYPERLINKS */
-a  {
-    color: var(--warm-link);
-    text-decoration: underline;
-    text-underline-offset: 4px;
-    font-weight: 500;
-    transition: color 0.2s ease;
+/* Elegant Quote Styling */
+em {
+    color: #70506D !important;            /* Muted Plum for your signature quote */
+    font-size: 1.1rem !important;
+    font-weight: 500 !important;
+    display: block !important;
+    margin: 15px 0 !important;
+}
+
+/* Bold text overrides to force high contrast visibility */
+strong {
+    color: #657A5A !important;            /* Highlights key phrases in rich Moss Green */
+    font-weight: bold !important;
+}
+
+/* Dramatic Deep Burgundy Hyperlinks */
+a, a:visited {
+    color: #5C2435 !important;
+    text-decoration: underline !important;
+    font-weight: bold !important;
 }
 
 a:hover {
-    color: var(--warm-link-hover);
-    text-decoration-thickness: 2px;
+    color: #657A5A !important;            /* Shifts to Moss Green on hover */
 }
 
-/*FOOTER ALIGNMENT */
-footer {
-    text-align: center;
-    margin-top: 60px;
-    font-size: 0.9em;
-    color: var(--text-muted);
-    font-style: italic;
+/* Automated Custom Bullets */
+ul {
+    padding-left: 5px !important;
+    list-style-type: none !important;
+}
+
+li {
+    margin-bottom: 14px !important;
+    color: #161718 !important;            /* Applied ultra-dark charcoal to lists */
+    font-weight: 500 !important;
+    display: inline-flex !important;
+    align-items: flex-start !important;
+    width: 100% !important;
+}
+
+/* Dynamic Botanical Bullet Injection */
+li::before {
+    content: "✿ " !important;             /* Rosette flower accents pop in Deep Burgundy */
+    color: #5C2435 !important;
+    margin-right: 10px !important;
+    font-weight: normal !important;
+    flex-shrink: 0 !important;
+}
+
+@media (max-width: 768px) {
+    body { max-width: 100% !important; margin: 0px !important; border: none !important; padding: 20px !important; }
 }

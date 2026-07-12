@@ -4,7 +4,7 @@ Category: Projects
 Summary: A custom automated web portfolio complied through GitHub Actions pipelines.
 
 # Featured Projects Showcase
-&#10070;[ Back Home& #10142;]({index})
+&#10070;[ Back Home &#10142;]({index})
 
 ### Automated Static Architecture
 <ul style="list-style-type: none; padding-left: 0;">
@@ -22,7 +22,7 @@ Summary: A custom automated web portfolio complied through GitHub Actions pipeli
 <style>
     html {
         background-color: #f4f0ec !important; /* Soft, warm oatmeal/linen */
-        padding: 5vw !important;
+        padding: 0px !important;
         box-sizing: border-box !important;
     }
     body {
@@ -31,8 +31,8 @@ Summary: A custom automated web portfolio complied through GitHub Actions pipeli
         font-family: 'Georgia', Cambria, serif !important;
         line-height: 1.6 !important;
         padding: 40px !important; /* Space inside the border */
-        max-width: 800px !important;
-        margin: 0 auto !important;
+        max-width: 95% !important;
+        margin: 20px auto !important;
 
         /* Cottage Decorative Border Styles */
         border: 4px double #3a503e !important; /* Classic deep sage double line frame */
@@ -55,7 +55,7 @@ Summary: A custom automated web portfolio complied through GitHub Actions pipeli
         padding-left: 20px !important;
     }
     li {
-        margin-bottom: 8px !important;
+        margin-bottom: 20px !important;
     }
 
     /* Keeps layout looking good on smaller mobile screens */
