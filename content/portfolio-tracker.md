@@ -1,5 +1,6 @@
 Title: Featured Engineering Projects
 Date: 2026-07-12
+Slug: portfolio-tracker
 Category: Projects
 Summary: A deep dive workspace showcasing my localized software applications and text-based game engines.
 

@@ -1,6 +1,7 @@
 Title: Embracing the setup Hurdles
 Date: 2026-07-11
 Category: Journal
+Slug: journal-entry-hello
 Summary: Reflections on setting ip automated pipelines and wrestling with full-browser layout engine scaling.
 
 # The Developer's Diary
