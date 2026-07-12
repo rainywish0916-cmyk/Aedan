@@ -23,7 +23,7 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
 
 ### Navigation Desk
 * [Browse My Project Cases &#10142;]({filename}/portfolio-tracker.md)
-* [Read My Programming Journal &#10142;]({filename}/Journal/Journal-Entry-Hello.md)
+* [Read My Programming Journal &#10142;]({filename}/journal/journal-entry-hello.md)
 * [View Technical Resume &#10142;]({filename}/resume.md)
 
 <style>
@@ -34,7 +34,7 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
     }
     body {
         background-color: #F4EFE6 !important; /* Cream warm paper canvas */
-        color: #2b2d2f !important;            /* High-contrast Charcoal body text */
+        color: #37373AF5 !important;            /* High-contrast Charcoal body text */
         font-family: 'Georgia', Cambria, serif !important;
         line-height: 1.6 !important;
         padding: 30px !important; /* Space inside the border */
@@ -83,7 +83,7 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
     }
     li {
         margin-bottom: 14px !important;
-        color: #2b2d2f !important;
+        color: #37373AF5 !important;
         display: inline-flex !important;
         align-items: flex-start !important;
         width: 100% !important;

@@ -1,7 +1,7 @@
 /* Master Global Cottagecore Design System */
 
 html {
-    background-color: #323437 !important; /* Charcoal misty forest backdrop */
+    background-color: rgb(65 66 66 / 0.93) !important; /* Charcoal misty forest backdrop */
     padding: 0px !important;
     box-sizing: border-box !important;
 }
@@ -24,7 +24,7 @@ body {
 
 /* TARGET ALL PARAGRAPHS DIRECTLY TO FORCE HIGH CONTRAST */
 p {
-    color: #161718 !important;            /* Forces all body text out of the ghost gray */
+    color: #37373AF5 !important;            /* Forces all body text out of the ghost gray */
     font-weight: 500 !important;
     line-height: 1.7 !important;
 }
