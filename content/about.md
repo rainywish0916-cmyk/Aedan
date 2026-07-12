@@ -22,7 +22,7 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
 * **Feel free to browse my workspace logs, open-source repositories, and developer journals!**
 
 ### Navigation Desk
-* [&larr; Browse My Project Cases](http://localhost:8000/protfolio-tracker.html)
+* [&larr; Browse My Project Cases](http://localhost:8000/portfolio-tracker.html)
 * [&larr; Read My Programming Journal](http://localhost:8000/journal/journal-entry-hello.html)
 * [&larr; View Technical Resume](http://localhost:8000/resume.html)
 
