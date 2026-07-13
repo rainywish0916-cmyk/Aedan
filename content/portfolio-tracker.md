@@ -11,18 +11,17 @@ Summary: A deep dive workspace showcasing my localized software applications and
 
 Here you will find a curated collection of application architectures and scripting structures I have built throughout my computer science journey.
 
-### 🎮 Custom Text-Based Adventure Game
-I engineered a fully localized interactive text adventure framework. This project focuses heavily on state machine logic, conditional branch choices, and managing dynamic player data arrays natively.
+### 🎮 Interactive Text-base Game
 
-* **Core Language:** Python 3.11
-* **Architecture:** Conditional State Trees & Scripting Modules
-* **Status:** Complete / Proud Achievement
+* **Sunsets**
+* 
+I made this game as a final project for a college class, I have always wanted to creat a text base game and didn't know where to start. 
+This was amazing to test my skills and challenge them as well to make this game, even with all stress, the challenges, and mini-crash out from this.
+It is a program I am so proud of. 
 
-#### Technical Milestones Covered:
-* **Dynamic Input Validation:** Programmed clean, robust exceptions to handle invalid user keyboard inputs without crashing the runtime environment.
-* **State Management:** Formatted structural logic checkpoints to track a player's choices, health, and inventory throughout the story matrix.
+<iframe src="https://trinket.io/embed/python3/a12f3ed57e57?outputOnly=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-[Explore the Source Code on GitHub ➞](https://github.com)
+If you would like to read the full story of how I designed this game, go check out my journal entries! It was a stressful six weeks.
 
 ***
 
