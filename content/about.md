@@ -22,8 +22,8 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
 * **Feel free to browse my workspace logs, open-source repositories, and developer journals!**
 
 ### Navigation Desk
-* [&larr; Browse My Project Cases]({filename}/portfolio-tracker.md)
-* [&larr; Read My Programming Journal]({filename}/journal/journal-entry-hello.md)
+* [&larr; Browse My Projects]({filename}/portfolio-tracker.md)
+* [&larr; Read Hello Journal]({filename}/journal-entry-hello.md)
 * [&larr; View Technical Resume]({filename}/resume.md)
 
 <style>

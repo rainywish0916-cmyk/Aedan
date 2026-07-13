@@ -1,6 +1,7 @@
 AUTHOR: 'Aedan Hatchell'
 SITENAME = 'AEDAN'
 SITEURL = 'https://github.io'
+RELATIVE_URLS = False
 
 PATH = "content"
 TIMEZONE = 'EST'
@@ -13,12 +14,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 LINKS = (
-    ('Home', 'Aedan/index.html'),
-    ('Projects', '/Aedan/category/Projects.html'),
+    ('Home', '/'),
+    ('Resume', '/resume.html'),
+    ('Developer Journal', '/journal-entry-hello.html'),
+    ('Portfolio', '/portfolio-tracker.html'),
 )
 
 SOCIAL = (
-    ('GitHub Profile', 'https://hithub.com'),
+    ('GitHub Profile', 'https://github.com'),
 )
 
 DEFAULT_PAGINATION = 10
