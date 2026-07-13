@@ -24,6 +24,8 @@ AUTHOR_FEED_RSS = None
  #   ('GitHub Profile', 'https://github.com'),
 #)
 
+STATIC_PATHS = ['sunsetsgame.exe']
+
 DEFAULT_PAGINATION = 10
 
 DISPLAY_CATEGORIES_ON_MENU = False
