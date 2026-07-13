@@ -19,7 +19,7 @@ I made this game as a final project for a college class, I have always wanted to
 This was amazing to test my skills and challenge them as well to make this game, even with all stress, the challenges, and mini-crash out from this.
 It is a program I am so proud of. 
 
-[* Download Game Client for Windows &rarr;](sunsetsgame.exe)
+* **Download Game Client for Windows &rarr;** [Sunsets](sunsetsgame.exe)
 
 If you would like to read the full story of how I designed this game, go check out my journal entries! It was a stressful six weeks.
 
