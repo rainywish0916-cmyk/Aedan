@@ -1,11 +1,12 @@
-Title: Embracing the setup Hurdles
+Title: Developer's Journal
 Date: 2026-07-11
 Category: Journal
 Slug: journal-entry-hello
-Summary: Reflections on setting ip automated pipelines and wrestling with full-browser layout engine scaling.
+Styles: css/custom.css
+Summary: Reflections on setting up automated pipelines and wrestling with full-browser layout engine scaling.
 
-# The Developer's Diary
-[&larr; Back to Workshop]({filename}/about.md)
+# The Midnight Ledger
+[&larr; Back to Workshop](index.html)
 
 <style>
     /* The outer backdrop outside the frame */
@@ -30,7 +31,7 @@ Summary: Reflections on setting ip automated pipelines and wrestling with full-b
         box-shadow: 0 4px 15px rgba(85, 102, 88, 0.05) !important;
     }
     
-    h1, h2, h3, h1 a, h2 a, h3 a {
+    h1, h2, h3, h1 a h2 a h3 a {
         color: #3a503e !important;
         margin-top: 24px !important;
     }

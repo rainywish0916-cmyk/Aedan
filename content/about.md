@@ -2,8 +2,8 @@ Title: Welcome to my Workshop
 Date: 2026-07-11
 Slug: about
 Save_as: index.html
+Styles: css/custom.css
 
-# Aedan Hatchell
 ### Software Engineering Workspace & Programming Journal
 
 "A developer who build clean code structures by day, and disappears into haunted worlds and dark romance pages after sunsets."
@@ -24,7 +24,7 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
 ### Navigation Desk
 * [&larr; Browse My Projects]({filename}/portfolio-tracker.md)
 * [&larr; Read Hello Journal]({filename}/journal-entry-hello.md)
-* [&larr; View Technical Resume]({filename}/resume.md)
+* [&larr; View Technical Blueprint]({filename}/resume.md)
 
 <style>
     html {
@@ -33,19 +33,22 @@ The Vision? Follow God. He started this from the beginning I am just doing his w
         box-sizing: border-box !important;
     }
     body {
-        background-color: #F4EFE6 !important; /* Cream warm paper canvas */
-        color: #37373AF5 !important;            /* High-contrast Charcoal body text */
-        font-family: 'Georgia', Cambria, serif !important;
-        line-height: 1.6 !important;
-        padding: 30px !important; /* Space inside the border */
-        max-width: 95% !important;
-        margin: 20px auto !important;
+    background-color: #F4EFE6 !important;
+    color: #37373AF5 !important;
+    font-family: 'Garamond', 'EB Garamond', 'Hoefler Text', 'Baskerville', serif !important;
 
-        /* Cottage Core Decorative Border Styles */
-        border: 1px solid #657A5A !important; /* Moss Green thin edge frame */
-        border-radius: 2px !important;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2) !important;
-    }
+    font-size: 1.25rem !important;   /* Boosts text size to roughly 20px */
+    line-height: 1.7 !important;     /* Adds breathing room between lines */
+    letter-spacing: 0.01rem !important; /* Slightly separates letters for clarity */
+    
+    padding: 40px !important; 
+    max-width: 750px !important; 
+    margin: 40px auto !important;
+    border: 1px solid #657A5A !important;
+    border-radius: 4px !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
     
     /* Typography & Headers */
     h1 {

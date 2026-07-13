@@ -1,10 +1,11 @@
 Title: Professional Qualifications
 Date: 2026-07-11
 Slug: resume
+Styles: css/custom.css
 Summary: Technical resume and academic achievements of Aedan Hatchell
 
-# Aedan Hatchell - Technical Resume
- [&larr; Back to Workshop]({filename}/about.md)
+# Aedan Hatchell - Technical Blueprint
+ [&larr; Back to Workshop](index.html)
  
 ### &#127809; Academic Background
 * &#9729; **Orangeburg-Calhoun Technical College** - *A.S. in Computer Science* 2022 - 2024

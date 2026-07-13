@@ -2,11 +2,12 @@ Title: Featured Engineering Projects
 Date: 2026-07-12
 Slug: portfolio-tracker
 Category: Projects
+Styles: css/custom.css
 Summary: A deep dive workspace showcasing my localized software applications and text-based game engines.
 
 # Software Engineering Showcase
 
-[&larr; Back to Workshop]({filename}/about.md)
+[&larr; Back to Workshop](index.html)
 
 Here you will find a curated collection of application architectures and scripting structures I have built throughout my computer science journey.
 
@@ -74,7 +75,7 @@ A localized file workspace tracking lifecycle structures, version control parame
         font-size: 2.5rem !important;
         margin-bottom: 5px !important;
     }
-    h2, h3, h1 a, h2 a, h3 a {
+    h2, h3, h1 a h2 a h3 a {
         color: #5C2435 !important;            /* Deep Burgundy subheaders */
         font-size: 1.4rem !important;
         margin-top: 30px !important;
